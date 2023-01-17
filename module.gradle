@@ -1,0 +1,13 @@
+ext {
+    moduleLibraryName = "blockxldownload"
+    moduleMinRiruApiVersion = 25
+    moduleMinRiruVersionName = "v25.4.2"
+    moduleRiruApiVersion = 25
+    magiskModuleId = "riru_block_xldownload"
+
+    moduleName = "Riru - Block .xlDownload"
+    moduleAuthor = "Huaji_MUR233"
+    moduleDescription = "Block MIUI rom generate .xlDownload in internal storage root."
+    moduleVersion = "v1.0"
+    moduleVersionCode = 1
+}
